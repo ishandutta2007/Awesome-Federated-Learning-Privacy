@@ -5,7 +5,7 @@
 <p align="center">
   <a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://img.shields.io/badge/Awesome-%E2%9C%94-blueviolet?style=flat-square&logo=github" alt="Awesome"/></a><a href="https://discord.gg/jc4xtF58Ve"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
   <a href="https://github.com/ishandutta2007/Awesome-Aweoome-Awesome"><img src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg" alt="Awesome" /></a>
-  <a href="https://github.com/ishandutta2007/Awesome-Federated-Learning-Privacy/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Federated-Learning-Privacy?style=flat-square&logo=github&color=38bdf8" alt="GitHub Stars" /></a>
+  <a href="https://github.com/ishandutta2007/Awesome-Federated-Learning-Privacy/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Federated-Learning-Privacy?style=flat-square&logo=github&color=38bdf8" alt="GitHub_Stars" /></a>
   <a href="https://github.com/ishandutta2007/Awesome-Federated-Learning-Privacy/blob/main/LICENSE"><img src="https://img.shields.io/badge/License-Apache_2.0-blue.svg?style=flat-square" alt="License" /></a>
   <a href="https://github.com/ishandutta2007/Awesome-Federated-Learning-Privacy/pulls"><img src="https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square" alt="PRs Welcome" /></a>
   <a href="https://github.com/ishandutta2007/Awesome-Federated-Learning-Privacy"><img src="https://img.shields.io/badge/Maintenance-Active-success.svg?style=flat-square" alt="Maintenance" /></a>
@@ -68,9 +68,9 @@ The table below catalogs managed cloud services and enterprise platforms support
 
 ### ⭐ Open-Source Ecosystem Ranking
 
-*All repositories are sorted in descending order of **GitHub Stars**.*
+*All repositories are sorted in descending order of **GitHub_Stars**.*
 
-| 📦 Repository & Project | ⭐ Stars Badge | 📜 License | 🛠️ Core Technology & Stack | 💡 Primary Focus |
+| 📦 Repository & Project | ⭐ Stars_Badge | 📜 License | 🛠️ Core Technology & Stack | 💡 Primary Focus |
 | :--- | :--- | :--- | :--- | :--- |
 | **[PySyft](https://github.com/OpenMined/PySyft)** | [![PySyft Stars](https://img.shields.io/github/stars/OpenMined/PySyft?style=social&color=white)](https://github.com/OpenMined/PySyft/stargazers) | Apache-2.0 | Python, PyTorch | Remote data science, differential privacy & secure multi-party computation. |
 | **[Flower](https://github.com/flwrlabs/flower)** | [![Flower Stars](https://img.shields.io/github/stars/flwrlabs/flower?style=social&color=white)](https://github.com/flwrlabs/flower/stargazers) | Apache-2.0 | Python, C++, Mobile | Framework-agnostic federated learning (PyTorch, TF, JAX, Hugging Face, Android/iOS). |
@@ -186,7 +186,7 @@ Contributions to expand and update this ecosystem guide are warmly welcomed! �
 2. **Create a Feature Branch:** `git checkout -b feature/add-new-project`
 3. **Add or Update Entries:**
    - For **SaaS platforms**, ensure entries are added to the SaaS table with exact starting prices, free tier/trial limits, and company scale.
-   - For **Open-Source projects**, include the shields.io social stars badge linked to the repository's `/stargazers` page, and maintain strict descending star order.
+   - For **Open-Source projects**, include the shields.io social Stars_Badge linked to the repository's `/stargazers` page, and maintain strict descending star order.
 4. **Commit Your Changes:** `git commit -m "feat: add <project-name> to catalog"`
 5. **Open a Pull Request** with a concise description of why the tool is suitable.
 
