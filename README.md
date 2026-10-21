@@ -3,11 +3,13 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/sindresorhus/awesome"><img src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg" alt="Awesome" /></a>
+  <a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://img.shields.io/badge/Awesome-%E2%9C%94-blueviolet?style=flat-square&logo=github" alt="Awesome"/></a><a href="https://discord.gg/jc4xtF58Ve"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
+  <a href="https://github.com/ishandutta2007/Awesome-Aweoome-Awesome"><img src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg" alt="Awesome" /></a>
   <a href="https://github.com/ishandutta2007/Awesome-Federated-Learning-Privacy/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Federated-Learning-Privacy?style=flat-square&logo=github&color=38bdf8" alt="GitHub Stars" /></a>
   <a href="https://github.com/ishandutta2007/Awesome-Federated-Learning-Privacy/blob/main/LICENSE"><img src="https://img.shields.io/badge/License-Apache_2.0-blue.svg?style=flat-square" alt="License" /></a>
   <a href="https://github.com/ishandutta2007/Awesome-Federated-Learning-Privacy/pulls"><img src="https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square" alt="PRs Welcome" /></a>
   <a href="https://github.com/ishandutta2007/Awesome-Federated-Learning-Privacy"><img src="https://img.shields.io/badge/Maintenance-Active-success.svg?style=flat-square" alt="Maintenance" /></a>
+  <a href="https://github.com/ishandutta2007"><img alt="GitHub followers" src="https://img.shields.io/github/followers/ishandutta2007?label=Follow" /></a>
 </p>
 
 ---
@@ -29,6 +31,8 @@
   - [🔍 Deep-Dive: Open-Source Frameworks](#-deep-dive-open-source-frameworks)
 - [🛡️ Privacy Taxonomy & Security Primitives](#️-privacy-taxonomy--security-primitives)
 - [🤝 How to Contribute](#-how-to-contribute)
+- [💖 Support](#-support)
+- [⭐ Star History](#--star-history)
 - [📜 Disclaimer & Compliance Notice](#-disclaimer--compliance-notice)
 
 ---
@@ -185,6 +189,23 @@ Contributions to expand and update this ecosystem guide are warmly welcomed! �
    - For **Open-Source projects**, include the shields.io social stars badge linked to the repository's `/stargazers` page, and maintain strict descending star order.
 4. **Commit Your Changes:** `git commit -m "feat: add <project-name> to catalog"`
 5. **Open a Pull Request** with a concise description of why the tool is suitable.
+
+---
+
+## 💖 Support
+
+Thank you for exploring this curated repository! If you find this project helpful for your research, team, or production workflows, here are a few ways you can show support:
+
+- ⭐ **Star this repository** to help others discover it and increase its visibility across the privacy engineering community.
+- 🍴 **Fork and share** it with your colleagues, research lab, or engineering teams.
+- ☕ **Buy me a coffee / Sponsor:** If you would like to support ongoing maintenance and research, consider sponsoring via the **[GitHub Sponsors Dashboard](https://github.com/sponsors/ishandutta2007)**.
+
+[![Sponsor ishandutta2007](https://img.shields.io/badge/Sponsor-%E2%9D%A4-ea4aaa?style=for-the-badge&logo=github-sponsors&logoColor=white)](https://github.com/sponsors/ishandutta2007)
+
+---
+
+##  Star History
+[![Star History Chart](https://star-history.dera.page/svg?repos=ishandutta2007/Awesome-Federated-Learning-Privacy&type=date&legend=top-left)](https://star-history.dera.page/#ishandutta2007/Awesome-Federated-Learning-Privacy&type=date&legend=top-left)
 
 ---
 
